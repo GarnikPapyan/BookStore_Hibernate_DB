@@ -5,7 +5,7 @@ his project is a book management system developed using Java and Hibernate. It p
 - Java
 - Hibernate
 - PostgreSQL
-- 
+  
 ## Prerequisites
 
 Before running the application, ensure you have the following:
