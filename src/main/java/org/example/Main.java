@@ -41,7 +41,7 @@ public class Main {
                                 out = true;
                                 out2 = true;
                             }
-                            default -> System.out.println("Input 1,2,3,4,5 or 6 ");
+                            default -> System.out.println("Input 1,2,3,4,5 or 6 !!!");
                         }
                     }
                 }
